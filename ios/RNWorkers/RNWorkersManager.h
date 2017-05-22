@@ -1,7 +1,6 @@
 #ifndef RNWorkersManager_h
 #define RNWorkersManager_h
 
-#import <React/RCTBridge+Private.h>
 #import <React/RCTEventDispatcher.h>
 #import <React/RCTBundleURLProvider.h>
 #import <React/RCTBridge.h>
